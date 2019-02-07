@@ -2,7 +2,7 @@
   "name": "marked4",
   "description": "A markdown parser built for speed (custom)",
   "author": "Alex Matveev",
-  "version": "0.6.3",
+  "version": "0.6.4",
   "main": "./lib/marked.js",
   "bin": "./bin/marked",
   "man": "./man/marked.1",
