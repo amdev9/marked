@@ -1,8 +1,8 @@
 {
-  "name": "marked",
-  "description": "A markdown parser built for speed",
-  "author": "Christopher Jeffrey",
-  "version": "0.6.0",
+  "name": "marked4",
+  "description": "A markdown parser built for speed (custom)",
+  "author": "Alex Matveev",
+  "version": "0.6.1",
   "main": "./lib/marked.js",
   "bin": "./bin/marked",
   "man": "./man/marked.1",
@@ -12,10 +12,10 @@
     "man/",
     "marked.min.js"
   ],
-  "repository": "git://github.com/markedjs/marked.git",
-  "homepage": "https://marked.js.org",
+  "repository": "git://github.com/cypherpunk99/marked",
+  "homepage": "",
   "bugs": {
-    "url": "http://github.com/markedjs/marked/issues"
+    "url": "https://github.com/cypherpunk99/marked/issues"
   },
   "license": "MIT",
   "keywords": [
