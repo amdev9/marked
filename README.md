@@ -4,7 +4,7 @@
 
 # Marked with custom links
 
-[![npm](https://badgen.net/npm/v/marked)](https://www.npmjs.com/package/marked4)
+[![npm](https://badgen.net/npm/v/marked4)](https://www.npmjs.com/package/marked4)
  
 ## Installation
 
