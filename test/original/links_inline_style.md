@@ -17,3 +17,11 @@ Just a [URL](/url/).
 [URL and title]( /url/has space/ "url has space and title").
 
 [Empty]().
+
+[[Empty|/url/]]
+
+[[Empty | /url/]]
+
+[[Hello world | aphanum:hello-world]]
+
+[[Hello world |]]
