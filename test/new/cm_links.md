@@ -250,12 +250,6 @@ The link text may contain ONE LEVEL of balanced brackets, but not unbalanced one
 
 [ref[bar518]518]: /uri
 
-### Example 519
-
-[[[foo519]]]
-
-[[[foo519]]]: /url
-
 ### Example 520
 
 [foo][ref\[]
@@ -319,11 +313,6 @@ The link text may contain ONE LEVEL of balanced brackets, but not unbalanced one
 
 [*foo* bar]: /url "title"
 
-### Example 530
-
-[[*foo* bar]]
-
-[*foo* bar]: /url "title"
 
 ### Example 531
 
@@ -488,25 +477,7 @@ My ![foo bar](/path/to/train.jpg  "title"   )
 ![*foo* bar]
 
 [*foo* bar]: /url "title"
-
-### Example 561
-
-![[foo561]]
-
-[[foo561]]: /url "title"
-
-### Example 562
-
-![Foo]
-
-[foo]: /url "title"
-
-### Example 563
-
-!\[foo]
-
-[foo]: /url "title"
-
+ 
 ### Example 564
 
 \![foo]

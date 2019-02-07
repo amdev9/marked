@@ -4143,14 +4143,7 @@
     "example": 518,
     "start_line": 7893
   },
-  {
-    "end_line": 7910,
-    "section": "Links",
-    "html": "<p>[[[foo]]]</p>\n<p>[[[foo]]]: /url</p>\n",
-    "markdown": "[[[foo]]]\n\n[[[foo]]]: /url\n",
-    "example": 519,
-    "start_line": 7903
-  },
+ 
   {
     "end_line": 7919,
     "section": "Links",
@@ -4231,14 +4224,7 @@
     "example": 529,
     "start_line": 8030
   },
-  {
-    "end_line": 8045,
-    "section": "Links",
-    "html": "<p>[<a href=\"/url\" title=\"title\"><em>foo</em> bar</a>]</p>\n",
-    "markdown": "[[*foo* bar]]\n\n[*foo* bar]: /url \"title\"\n",
-    "example": 530,
-    "start_line": 8039
-  },
+ 
   {
     "end_line": 8054,
     "section": "Links",
@@ -4479,14 +4465,7 @@
     "example": 560,
     "start_line": 8351
   },
-  {
-    "end_line": 8369,
-    "section": "Images",
-    "html": "<p>![[foo]]</p>\n<p>[[foo]]: /url &quot;title&quot;</p>\n",
-    "markdown": "![[foo]]\n\n[[foo]]: /url \"title\"\n",
-    "example": 561,
-    "start_line": 8362
-  },
+ 
   {
     "end_line": 8380,
     "section": "Images",

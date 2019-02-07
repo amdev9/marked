@@ -24,4 +24,8 @@ Just a [URL](/url/).
 
 [[Hello world | aphanum:hello-world]]
 
-[[Hello world |]]
+[[Hello world]]
+
+[[One more  world]]
+
+[[ Marked | https://github.com/markedjs/marked/blob/master/lib/marked.js]]
